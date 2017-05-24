@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "bike_shop",
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/pkarella/template",
   "ignore": [
     "**/.*",
     "node_modules",
